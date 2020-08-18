@@ -1,4 +1,4 @@
- <img style="border-radius: 50%;" src="https://redfox.tech/wp-content/uploads/2019/09/logo-colorido.png" width="200px;" alt="Logo RedFox"/>
+ <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/marinaisabels/maria-vai-com-as-devs/master/serasa_mulheres.jpg" width="300px;" alt="Logo RedFox"/>
 
 Processo de seleção para o Programa Maria vai com as Devs
 _____
