@@ -10,9 +10,9 @@
 
 <body>
     <header>
-        <img src="./img/logo.jpg" />
+        <img src="https://raw.githubusercontent.com/marinaisabels/maria-vai-com-as-devs/master/serasa_mulheres.jpg" />
         <a href="home.html">
-            <h1>Crédito Comércio</h1>
+            <h2>Página Inicial</h2>
         </a>
     </header>
 
@@ -24,17 +24,24 @@
                 <input type="text" id="fname" name="firstname" placeholder="Digite o nome...">
                 <label for="fname">E -mail</label>
                 <input type="text" placeholder="Digite o email aqui...">
-                <!-- <label for="fname">Senha</label>
-                <input type="text" placeholder="Digite sua senha...">  -->
-                <input type="submit" value="Cadastrar">
+                <label for="fname">Senha</label>
+                <input type="text" placeholder="Digite sua senha...">
+                <label for="fname">Confirme a senha novamente</label>
+                <input type="text" placeholder="Digite sua senha novamente...">
+                <input type="submit" value="Confirmar"onclick="abreLink('login.html');"></input>
             </form>
         </section>
 
     </section>
 
     <footer>
-        <p> 2020 - Crédito Comércio</p>
+        <p> © 2020 - Crédito Comércio</p>
     </footer>
 </body>
+<script>
+    function abreLink(link) {
+        window.open(link);
+    }
+</script>
 
 </html>
