@@ -25,7 +25,7 @@
                 <input type="text" placeholder="Digite o nome aqui...">
                 <label for="fname">Valor</label>
                 <input type="text" placeholder="00.00">   
-                <button  id="button" onclick="">Comprar</button>
+                <input type="submit" value="Comprar"onclick="abreLink('voucher.html');"></input>
               </form>
         </section>
     </section>
@@ -34,5 +34,10 @@
         <p> © 2020 - Crédito Comércio</p>
     </footer>
 </body>
+<script>
+    function abreLink(link) {
+        window.open(link);
+    }
+</script>
 
 </html>
