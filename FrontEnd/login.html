@@ -24,7 +24,7 @@
                 <input type="text" placeholder="Digite o email aqui...">
                 <label for="fname">Senha</label>
                 <input type="text" placeholder="Digite sua senha...">
-                <input type="submit" value="Cadastrar">
+                <input type="submit" value="Entrar"onclick="abreLink('getVoucher.html');"></input>
                 <p> Ainda não é cadastrado? Registre - se <a href="registerPF.html">aqui.</a></p>
             </form>
         </section>
@@ -35,5 +35,9 @@
         <p> © 2020 - Crédito Comércio</p>
     </footer>
 </body>
-
+<script>
+    function abreLink(link) {
+        window.open(link);
+    }
+</script>
 </html>
