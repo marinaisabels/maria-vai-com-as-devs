@@ -1,5 +1,5 @@
 
-Desafio Maria vai com as Devs | Back-end
+Desafio Maria vai com as Devs | Front-end
 _____
 >## 💻  Sobre o projeto
 O projeto foi criado com a finalidade de apresentar soluções para o pequeno e médio empreendedor. As funcionalidades consistem em determinar vouchers para clientes, para 
@@ -63,7 +63,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 ## Dificuldades 
-Não conseguimos terminar as funcionalidades das páginas por falta de tempo, que tem como obejtivo em pegar o nome e o valor do cliente e mandar para a outra pagina de finalização.
+Devido ao curto prazo estipulado de 48h estipulado, não conseguimos concluir as funcionalidades das paginas  objetivo em pegar o nome e o valor do voucher e mandar para a de finalização
 
 
 ## Autoras
