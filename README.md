@@ -25,7 +25,7 @@ Esse é um projeto de Frontend Web feito utilizando HTML e CSS;
 
 ### Deploy
 
-- [Projeto Crédio Comércio](https://creditocomercio.netlify.app/)
+- [Projeto Crédito Comércio](https://creditocomercio.netlify.app/)
 
 
 ### Pré-requisitos
